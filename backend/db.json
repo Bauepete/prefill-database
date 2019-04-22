@@ -1,0 +1,31 @@
+{
+  "enumIconsPaths": [
+    {
+      "id": 1,
+      "name": "icon01.svg",
+      "src": "images/icon01.svg"
+    },
+    {
+      "id": 2,
+      "name": "icon02.svg",
+      "src": "images/icon02.svg"
+    },
+    {
+      "id": 3,
+      "name": "icon03.svg",
+      "src": "images/icon03.svg"
+    },
+    {
+      "id": 4,
+      "name": "icon04.svg",
+      "src": "images/icon04.svg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
