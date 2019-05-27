@@ -4,7 +4,7 @@ import {CommandLine} from "./CommandLine.mjs"
 const commandLine = new CommandLine(process.argv)
 
 if (commandLine.count !== 2) {
-  console.error("usage: node importImages.js <image-directory> <db-file>")
+  console.error("usage: node importImages.mjs <image-directory> <db-file>")
   process.exit(-1)
 }
 
